@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # mern
 
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+=======
+# mern_1
+>>>>>>> e193a9fb8d46689c3f9794b6a18109f13b61c2ef
